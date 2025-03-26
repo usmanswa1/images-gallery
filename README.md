@@ -57,7 +57,7 @@ mkdir images
 ---
 
 ### **4️⃣ Create a `metadata.json` File**
-This file will store image metadata such as filenames and paths. Create a file named `metadata.json` inside `backend/` and initialize it with an empty list:
+This file will store image metadata such as filenames and paths e.g. data.json can be used as an example. Create a file named `metadata.json` inside `backend/` and initialize it with an empty list:
 ```json
 []
 ```
