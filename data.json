@@ -1,0 +1,10 @@
+[
+    {
+        "filename": "image1.jpg",
+        "path": "/images/image1.jpg"
+    },
+    {
+        "filename": "image2.png",
+        "path": "/images/image2.png"
+    }
+]
